@@ -10,7 +10,6 @@ namespace DevOps_Demo.Controllers
     {
         public ActionResult Index()
         {
-            // Do something here.
             return View();
         }
     }
